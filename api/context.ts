@@ -1,4 +1,4 @@
-import { PubSub } from "apollo-server";
+import { PubSub } from "graphql-subscriptions";
 import { RedisPubSub } from "graphql-redis-subscriptions";
 import { Db, db } from "./db";
 import * as Redis from 'ioredis';

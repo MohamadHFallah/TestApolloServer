@@ -1,4 +1,4 @@
-import { PubSub } from "apollo-server";
+
 import {
   objectType,
   extendType,
